@@ -1,6 +1,6 @@
 3{
 	"Prefijo": "/",
-	"LenguajeDelBot": "español",
+	"LenguajeDelBot": "es",
 	"NombreDelBot": "pocho 43|bot",
 	"ControladorDelBot": [
 		"6871683666@s.whatsapp.net",
@@ -11,8 +11,8 @@
 	],
 	"Propietario": "pocho 43",
 	"MyPais": "52",
-	"MiembrosMinimoEnUnGrupo": "250",
-	"LimiteParaUsarComandos": "250",
+	"MiembrosMinimoEnUnGrupo": "50",
+	"LimiteParaUsarComandos": "20",
 	"TusRedesSociales": "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UCWFEXf3OBD8Tayf4ottj2oA\n\n[Ꮄ] Tiktok:\n- https://www.tiktok.com/@a51_pocho43?_t=8VKhVD1at2U&_r=1/\n\n*_Muchisimas gracias por tu apoyo mi king!!!_* :3",
 	"ApiRest": "https://latam-api.vercel.app/",
         "CtrlG": ""
